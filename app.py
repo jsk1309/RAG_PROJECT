@@ -21,7 +21,7 @@ st.set_page_config(
 )
 
 st.title(
-    "📄 PDF RAG using EmbeddingGemma"
+    "📄 AI POWERED PDF ASSISTANT"
 )
 
 # -----------------------
