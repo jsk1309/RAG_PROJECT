@@ -1,0 +1,25 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+_pycache_/
+*.pyc
+
+# Mac files
+.DS_Store
+
+# Chroma vector database
+chroma_langchain_db/
+
+# Uploaded files
+uploads/
+
+# PDFs and datasets
+data/
+
+# Environment variables
+.env
+
+# VS Code settings (optional)
+.vscode/
+
