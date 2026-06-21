@@ -1,10 +1,25 @@
-# Python-generated files
-__pycache__/
-*.py[oc]
-build/
-dist/
-wheels/
-*.egg-info
+# Virtual Environment
+venv/
+env/
+.venv/
 
-# Virtual environments
-.venv
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Chroma DB
+chroma_langchain_db/
+
+# Uploaded PDFs
+uploads/
+*.pdf
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
